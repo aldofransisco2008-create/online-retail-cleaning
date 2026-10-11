@@ -1,0 +1,22 @@
+{
+  "raw_rows": 541909,
+  "exact_duplicates_removed": 5268,
+  "cancellation_lines": 9251,
+  "removed: non-product line (fee/postage/adjustment)": 2324,
+  "removed: stock adjustment (quantity <= 0)": 1336,
+  "removed: zero or negative price": 1156,
+  "removed: gift voucher": 34,
+  "removed: bad debt adjustment": 3,
+  "sales_netted_against_cancellation": 2797,
+  "clean_sales_rows": 519740,
+  "clean_sales_without_customer_id": 131387,
+  "date_range": [
+    "2010-12-01 08:26:00",
+    "2011-12-09 12:50:00"
+  ],
+  "clean_revenue_gbp": 9859636.7,
+  "raw_revenue_gbp": 9747747.93,
+  "countries": 38,
+  "products": 3794,
+  "invoices": 19696
+}
